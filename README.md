@@ -59,7 +59,7 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 
 - [Article sur la santé des agriculteurs par Santé Publique France (2018)](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)
 - [Synthèse des chercheurs de l'Inserm sur les pesticides et leur effet sur la santé (2021)](https://www.inserm.fr/expertise-collective/pesticides-et-sante-nouvelles-donnees-2021/)
-- [Tableau de l'INRS recensant les maladies professionnelles dans le régime agricoles](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=RA&field_activites_nuisances=&field_maladies=&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)
+- [Tableau de l'INRS recensant les maladies professionnelles dans le régime agricoles (2022)](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=RA&field_activites_nuisances=&field_maladies=&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)
 
 ## Auteurs
 
