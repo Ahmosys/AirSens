@@ -23,12 +23,13 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 
 ## Quels sont les composants utilisés ?
 
-| Composants | Description
-| :---         |     :---      
-| Arduino UNO R3  | Permet de gérer et piloter les composants externes.    
-| Led RGB     | Permet de diffuser une large gamme de couleurs différentes.
-| Buzzer  | Permet d'émettre un son plus ou moins aiguë selon la fréquence. 
-| Air Quality Sensor  | Permet de détecter la qualité de l'air.
+| Composants | Description | Prix
+| :---         | :---         | :---         |
+| [Arduino UNO R3](https://urlz.fr/jnTG) | Permet de gérer et piloter les composants externes. | ~25,30 €
+| [Led RGB](https://urlz.fr/jnTM) | Permet de diffuser une large gamme de couleurs différentes. | ~0.30€
+| [Buzzer](https://urlz.fr/jnTP) | Permet d'émettre un son plus ou moins aigu selon la fréquence. | ~0.70 €
+| [Air Quality Sensor](https://urlz.fr/jnTS) | Permet de détecter la qualité de l'air. | ~19.70 €
+| [Base shield (optionel)]https://urlz.fr/jnTT) | Permet de connecter plusieurs capteurs analogiques. | ~19.27 €
 
 ## Quel est le public visé ?
 Airsens est principalement conçu pour les personnes traitant souvent dans leur profession
