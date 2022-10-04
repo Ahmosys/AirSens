@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href=""><img src="https://i.postimg.cc/MTgSrmL7/img-prototype-airsens.png" alt="Bad Usb" width="500"></a>
   <br />
-  Airsens
+  Airsens 🇫🇷
   <br />
 </h1>
 
