@@ -53,7 +53,7 @@ ces maladies pour que nos agriculteurs soient le plus vigilant possible et essay
 
 C'est là qu'arrive l'idée d'Airsens! Placé un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
 qu'il pourra faire suivre toute la journée dans sa poche et qui lui indiquera si la zone où il se trouve est
-trop toxique. Un produit simple mais intuitif et facile à prendre en main. On l'allume, on le met dans la poche et le tour est joué !
+trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre en main. On l'allume, on le met dans la poche et le tour est joué !
 
 ## Articles
 
