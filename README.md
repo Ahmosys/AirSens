@@ -61,7 +61,7 @@ trop toxique. Un produit simple mais intuitif et facile à prendre en main. On l
 
 ## Auteurs
 
-- @ahmosys (H.R)
-- @yso8 (B.G)
-- @Foufou-exe (T.M)
-- @MasWap (L.L)
+> [@ahmosys (H.R)](https://github.com/ahmosys),
+> [@yso8 (B.G)](https://github.com/yso8),
+> [@Foufou-exe (T.M)]https://github.com/Foufou-exe),
+> [@MasWap (L.L)](https://github.com/MasWap),
