@@ -32,7 +32,7 @@ tels que les pesticides et les engrais, ainsi qu'aux gaz toxiques pouvant être 
 partir de pratiques agricoles courantes comme la décomposition du fumier et le stockage en silo.
 (cf. [Article sur la santé des agriculteurs par Santé Publique France](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)).
 
-## Comment c'est dérouler le projet ?
+## Comment c'est déroulé le projet ?
 Tout d'abord, nous avons effectué un brainstorming et une analyse des besoins
 et des problèmes auquel les personnes dans l'agriculture pouvaient être exposées. Nous
 voulions que notre soit utile et bénéfique pour ces personnes.
