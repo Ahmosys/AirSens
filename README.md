@@ -33,11 +33,11 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 
 ## Quel est le public visé ?
 Airsens est principalement conçu pour les personnes traitant souvent dans leur profession
-avec des produits chimiques et/où toxiques. Cette solution a notamment été conçue pour les agriculteurs
-étant couramment exposé et de manière répétitive à ce genre de produits. Nous savons dû à leur métier
+avec des produits chimiques et/où toxiques. Cette solution a notamment été conçue pour les **agriculteurs**
+étant couramment exposé et de **manière répétitive** à ce genre de produits. Nous savons dû à leur métier
 les agriculteurs ont souvent des problèmes de santé étant provoqués par l'exposition aux produits chimiques agricoles,
-tels que les pesticides et les engrais, ainsi qu'aux gaz toxiques pouvant être produits à
-partir de pratiques agricoles courantes comme la décomposition du fumier et le stockage en silo.
+tels que les **pesticides et les engrais**, ainsi qu'aux **gaz toxiques** pouvant être produits à
+partir de pratiques agricoles courantes comme la **décomposition du fumier et le stockage en silo**.
 (cf. [Article sur la santé des agriculteurs par Santé Publique France](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)).
 
 ## Comment est venue l'idée ?
@@ -46,10 +46,10 @@ et des problèmes auquel les personnes dans l'agriculture pouvaient être expos�
 voulions que notre soit utile et bénéfique pour ces personnes.
 
 Après une analyse du domaine agricole, nous avons remarqué que les métiers composants ce secteur
-était fortement exposé à des risques de santé multiple comme par exemple : lymphomes non hodgkiniens (LNH), myélome multiple, cancer de la prostate, maladie de Parkinson, troubles cognitifs, bronchopneumopathie chronique obstructive et bronchite chronique.
+était fortement exposé à des **risques de santé** multiple comme par exemple : lymphomes non hodgkiniens (LNH), myélome multiple, cancer de la prostate, maladie de Parkinson, troubles cognitifs, bronchopneumopathie chronique obstructive et bronchite chronique.
 
-En remarquant cela, nous nous sommes dit qu'il fallait un produit permettant de prévenir l'apparition de toutes
-ces maladies pour que nos agriculteurs soient le plus vigilant possible et essaye d'éviter au maximum ces risques !
+En remarquant cela, nous nous sommes dit qu'il fallait un produit permettant de **prévenir** l'apparition de toutes
+ces maladies pour que nos agriculteurs soient le plus vigilant possible et essaye d'éviter au maximum ces **risques** !
 
 C'est là qu'arrive l'idée d'Airsens! Placé un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
 qu'il pourra faire suivre toute la journée dans sa poche et qui lui indiquera si la zone où il se trouve est
