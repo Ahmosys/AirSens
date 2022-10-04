@@ -58,3 +58,10 @@ trop toxique. Un produit simple mais intuitif et facile à prendre en main. On l
 
 - [Article sur la santé des agriculteurs par Santé Publique France (2018)](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)
 - [Synthèse des chercheurs de l'Inserm sur les pesticides et leur effet sur la santé (2021)](https://www.inserm.fr/expertise-collective/pesticides-et-sante-nouvelles-donnees-2021/)
+
+## Auteurs
+
+- @ahmosys (H.R)
+- @yso8 (B.G)
+- @Foufou-exe (T.M)
+- @MasWap (L.L)
