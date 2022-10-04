@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href=""><img src="https://i.postimg.cc/MTgSrmL7/img-prototype-airsens.png" alt="Bad Usb" width="500"></a>
   <br />
-  Airsens 🇫🇷
+  AirSens 🇫🇷
   <br />
 </h1>
 
@@ -10,13 +10,13 @@
 La solution aidant les personnes travaillant dans l'agriculture à prendre soin de leur santé.
 </p>
 
-## Qu’est-ce que Airsens ?
+## Qu’est-ce que AirSens ?
 
-Airsens est un petit boîtier capable de détecter les **vapeurs** et **gaz chimiques** étant dans l'air ambiant.
+AirSens est un petit boîtier capable de détecter les **vapeurs** et **gaz chimiques** étant dans l'air ambiant.
 Cet appareil a pour but de prévenir des **risques de santé** pouvant apparaître après une trop longue exposition à ce genre de produits.
 ## Comment fonctionne-t-il ?
 
-Airsens est une solution conçue à base d'un **Arduino UNO R3**. Il se compose d'un **capteur
+AirSens est une solution conçue à base d'un **Arduino UNO R3**. Il se compose d'un **capteur
 de qualité d'air** pour mesurer le taux de toxicité dans l'air, ce composant est capable de réagir au **monoxyde de carbone, à l'alcool, à l'acétone, au diluant, au formaldéhyde et à d'autres gaz toxiques**. 
 On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la qualité de l'air par rapport à l'endroit où il se trouve selon la couleur diffusée. Et pour finir d'un
 **buzzer** permettant d'avertir l'utilisateur en cas d'extrême toxicité dans l'air.
@@ -32,7 +32,7 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 | [Base shield (optionel)](https://urlz.fr/jnTT) | Permet de connecter plusieurs capteurs analogiques. | ~19.27 €
 
 ## Quel est le public visé ?
-Airsens est principalement conçu pour les personnes traitant souvent dans leur profession
+AirSens est principalement conçu pour les personnes traitant souvent dans leur profession
 avec des produits chimiques et/où toxiques. Cette solution a notamment été conçue pour les **agriculteurs**
 étant couramment exposé et de **manière répétitive** à ce genre de produits. Nous savons dû à leur métier
 les agriculteurs ont souvent des problèmes de santé étant provoqués par l'exposition aux produits chimiques agricoles,
@@ -51,7 +51,7 @@ Après une analyse du domaine agricole, nous avons remarqué que les métiers co
 En remarquant cela, nous nous sommes dit qu'il fallait un produit permettant de **prévenir** l'apparition de toutes
 ces maladies pour que nos agriculteurs soient le plus vigilant possible et essaye d'éviter au maximum ces **risques** !
 
-C'est là qu'arrive l'idée d'Airsens ! Placé un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
+C'est là qu'arrive l'idée d'AirSens ! Placé un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
 qu'il pourra faire suivre toute la journée dans sa poche et qui lui indiquera si la zone où il se trouve est
 trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre en main. On l'allume, on le met dans la poche et le tour est joué !
 
