@@ -29,7 +29,7 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 | [Led RGB](https://urlz.fr/jnTM) | Permet de diffuser une large gamme de couleurs différentes. | ~0.30€
 | [Buzzer](https://urlz.fr/jnTP) | Permet d'émettre un son plus ou moins aigu selon la fréquence. | ~0.70 €
 | [Air Quality Sensor](https://urlz.fr/jnTS) | Permet de détecter la qualité de l'air. | ~19.70 €
-| [Base shield (optionel)]https://urlz.fr/jnTT) | Permet de connecter plusieurs capteurs analogiques. | ~19.27 €
+| [Base shield (optionel)](https://urlz.fr/jnTT) | Permet de connecter plusieurs capteurs analogiques. | ~19.27 €
 
 ## Quel est le public visé ?
 Airsens est principalement conçu pour les personnes traitant souvent dans leur profession
