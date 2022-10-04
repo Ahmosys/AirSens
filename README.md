@@ -10,7 +10,7 @@ Cet appareil a pour but de prévenir des **risques de santé** pouvant apparaît
 ## Comment fonctionne-t-il ?
 
 Airsens est une solution conçue à base d'un **Arduino UNO R3**. Il se compose d'un **capteur
-de qualité d'air** pour mesurer le taux de toxicité dans l'air, ce composant est capable de réagir au monoxyde de carbone, à l'alcool, à l'acétone, au diluant, au formaldéhyde et à d'autres gaz toxiques. 
+de qualité d'air** pour mesurer le taux de toxicité dans l'air, ce composant est capable de réagir au **monoxyde de carbone, à l'alcool, à l'acétone, au diluant, au formaldéhyde et à d'autres gaz toxiques**. 
 On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la qualité de l'air par rapport à l'endroit où il se trouve selon la couleur diffusée. Et pour finir d'un
 **buzzer** permettant d'avertir l'utilisateur en cas d'extrême toxicité dans l'air.
 
