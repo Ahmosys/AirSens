@@ -33,7 +33,7 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 
 ## Quel est le public visé ?
 AirSens est principalement conçu pour les personnes traitant souvent dans leur profession
-avec des produits chimiques et/où toxiques. Cette solution a notamment été conçue pour les **agriculteurs**
+avec des produits chimiques et/ou toxiques. Cette solution a notamment été conçue pour les **agriculteurs**
 étant couramment exposé et de **manière répétitive** à ce genre de produits. Nous savons dû à leur métier
 les agriculteurs ont souvent des problèmes de santé étant provoqués par l'exposition aux produits chimiques agricoles,
 tels que les **pesticides et les engrais**, ainsi qu'aux **gaz toxiques** pouvant être produits à
