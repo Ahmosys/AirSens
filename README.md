@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  <br />
-  <a href=""><img src="https://i.postimg.cc/vZK6hpzD/img-prototye-projet-airsens.jpg" alt="Bad Usb" width="500"></a>
+  <a href=""><img src="https://i.postimg.cc/MTgSrmL7/img-prototype-airsens.png" alt="Bad Usb" width="500"></a>
   <br />
   Airsens
   <br />
