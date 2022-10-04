@@ -43,7 +43,7 @@ partir de pratiques agricoles courantes comme la **décomposition du fumier et l
 ## Comment est venue l'idée ?
 Tout d'abord, nous avons effectué un brainstorming et une analyse des besoins
 et des problèmes auquel les personnes dans l'agriculture pouvaient être exposées. Nous
-voulions que notre soit utile et bénéfique pour ces personnes.
+voulions que notre soit **utile** et **bénéfique** pour ces personnes.
 
 Après une analyse du domaine agricole, nous avons remarqué que les métiers composants ce secteur
 était fortement exposé à des **risques de santé** multiple comme par exemple : lymphomes non hodgkiniens (LNH), myélome multiple, cancer de la prostate, maladie de Parkinson, troubles cognitifs, bronchopneumopathie chronique obstructive et bronchite chronique.
