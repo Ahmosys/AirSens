@@ -67,4 +67,4 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 > [@yso8 (B.G)](https://github.com/yso8),
 > [@Foufou-exe (T.M)](https://github.com/Foufou-exe),
 > [@MasWap (L.L)](https://github.com/MasWap)
-> [@Yangbird(N.L)](https://github.com/Yangbird)
+> [@Yangbird (N.L)](https://github.com/Yangbird)
