@@ -7,6 +7,10 @@
 #define LED_BLUE_PIN 11
 #define BUZZER_PIN 2
 
+bool isAlreadyEmitSound;
+int airQuality = -1;
+
+
 /* Color code RGB */
 const byte COLOR_BLACK = 0b000;
 const byte COLOR_RED = 0b100;
@@ -16,6 +20,7 @@ const byte COLOR_MAGENTA = 0b101;
 const byte COLOR_CYAN = 0b011;
 const byte COLOR_YELLOW = 0b110;
 const byte COLOR_WHITE = 0b111;
+
 
 /* Instantiation */
 AirQualitySensor sensor(A0);
@@ -36,27 +41,29 @@ void setup() {
 /* Main loop */
 void loop() {
 
-  // emitBuzzerSound();
   int airQuality = sensor.slope();
 
   Serial.print("Sensor value: ");
   Serial.println(sensor.getValue());
 
-  if (airQuality == AirQualitySensor::FORCE_SIGNAL) {
-     displayColorLed(COLOR_RED);
-     Serial.println("High pollution! Force signal active.");
-  } else if (airQuality == AirQualitySensor::HIGH_POLLUTION) {   
+  if (airQuality == AirQualitySensor::HIGH_POLLUTION || airQuality == AirQualitySensor::FORCE_SIGNAL) {
     displayColorLed(COLOR_RED);
-    // emitBuzzerSound();
-    Serial.println("High pollution!");
+    if (!isAlreadyEmitSound) {
+      emitBuzzerSound();
+    }
+    Serial.println("High pollution! Force signal active.");
   } else if (airQuality == AirQualitySensor::LOW_POLLUTION) {
     displayColorLed(COLOR_YELLOW);
     Serial.println("Low pollution!");
+    isAlreadyEmitSound = false;
+    
   } else if (airQuality == AirQualitySensor::FRESH_AIR) {
-     displayColorLed(COLOR_BLUE);
-     Serial.println("Fresh air.");
+    displayColorLed(COLOR_BLUE);
+    Serial.println("Fresh air.");
  }
-  
+
+  delay(500);
+
 }
 
 void turnOffLed() {
@@ -80,9 +87,12 @@ void emitStartupSignal() {
 }
 
 void emitBuzzerSound() {
-  tone (BUZZER_PIN, 2000, 1000);
-  delay(1500);
-  noTone(BUZZER_PIN);
+  for (int i=0; i < 5; i++) {
+    tone (BUZZER_PIN, 100, 1000);
+    delay(1500);
+    noTone(BUZZER_PIN);
+  }
+  isAlreadyEmitSound = true;
 }
 
 void isSensorReady(AirQualitySensor sensor) {
