@@ -29,7 +29,7 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 | [Led RGB](https://urlz.fr/joH6) | Permet de diffuser une large gamme de couleurs différentes. | ~0.04 €
 | [Buzzer](https://urlz.fr/jnTP) | Permet d'émettre un son plus ou moins aigu selon la fréquence. | ~0.70 €
 | [Air Quality Sensor](https://urlz.fr/jnTS) | Permet de détecter la qualité de l'air. | ~19.70 €
-| [Base shield (optionel)](https://urlz.fr/joH2) | Permet de connecter plusieurs capteurs analogiques. | ~10,06 €
+| [Base shield (optionel)](https://www.mouser.fr/ProductDetail/Seeed-Studio/103030000?qs=SElPoaY2y5JcWXrWV1kCmw%3D%3D&mgh=1&vip=1) | Permet de connecter plusieurs capteurs analogiques. | ~3,38 €
 
 ## Quel est le public visé ?
 AirSens est principalement conçu pour les personnes traitant souvent dans leur profession
