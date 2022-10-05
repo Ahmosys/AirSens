@@ -51,7 +51,7 @@ Après une analyse du domaine agricole, nous avons remarqué que les métiers co
 En remarquant cela, nous nous sommes dit qu'il fallait un produit permettant de **prévenir** l'apparition de toutes
 ces maladies pour que nos agriculteurs soient le plus vigilant possible et essaye d'éviter au maximum ces **risques** !
 
-C'est là qu'arrive l'idée d'AirSens ! Placé un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
+C'est là qu'arrive l'idée d'AirSens ! Placer un capteur permettant de mesurer la toxicité d'air dans la poche d'un agriculteur,
 qu'il pourra faire suivre toute la journée dans sa poche et qui lui indiquera si la zone où il se trouve est
 trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre en main. On l'allume, on le met dans la poche et le tour est joué !
 
