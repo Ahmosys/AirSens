@@ -62,7 +62,7 @@ void loop() {
     Serial.println("Fresh air.");
  }
 
-  delay(500);
+  delay(1000);
 
 }
 
