@@ -61,7 +61,7 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 
 ## Librairies
 
-- [Librarie Grove Air Quality Sensor v1.3](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor)
+- [Librarie Arduino Grove Air Quality Sensor v1.3](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor)
 
 ## Articles
 
