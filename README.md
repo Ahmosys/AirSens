@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href=""><img src="https://i.postimg.cc/rFdFCjvM/img-github-airsens.png" alt="Bad Usb" width="500"></a>
+  <a href=""><img src="https://i.postimg.cc/rFdFCjvM/img-github-airsens.png" alt="Image GitHub" width="500"></a>
   <br />
   AirSens 🇫🇷
   <br />
@@ -65,12 +65,17 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 
 - [Librarie Arduino Grove Air Quality Sensor v1.3](https://github.com/Seeed-Studio/Grove_Air_quality_Sensor)
 
+## Communication
+
+<div align="center">
+  <img src="https://i.postimg.cc/MKhRyv33/img-poster-mockup-airsens-png.png" alt="Image schéma platine d'essai" width="500">
+</div>
+
 ## Articles
 
 - [Article sur la santé des agriculteurs par Santé Publique France (2018)](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)
 - [Synthèse des chercheurs de l'Inserm sur les pesticides et leur effet sur la santé (2021)](https://www.inserm.fr/expertise-collective/pesticides-et-sante-nouvelles-donnees-2021/)
 - [Tableau de l'INRS recensant les maladies professionnelles dans le régime agricoles (2022)](https://www.inrs.fr/publications/bdd/mp/recherche.html?typeRegime=RA&field_activites_nuisances=&field_maladies=&field_numeroCAS=&mot_cles_tableau=&motsCles=&valid_RECHERCHE_MOTSCLES=Rechercher&introspection=)
-
 
 ## Auteurs
 
