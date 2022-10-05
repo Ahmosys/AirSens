@@ -57,7 +57,9 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 
 ## Schéma
 
-<img src="https://i.postimg.cc/sDWRfDGp/img-schema-electrique.png" alt="Bad Usb" width="500">
+<div align="center">
+  <img src="https://i.postimg.cc/sDWRfDGp/img-schema-electrique.png" alt="Image schéma platine d'essai" width="500">
+</div>
 
 ## Librairies
 
