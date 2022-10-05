@@ -55,6 +55,10 @@ C'est là qu'arrive l'idée d'AirSens ! Placé un capteur permettant de mesurer 
 qu'il pourra faire suivre toute la journée dans sa poche et qui lui indiquera si la zone où il se trouve est
 trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre en main. On l'allume, on le met dans la poche et le tour est joué !
 
+## Schéma
+
+<img src="https://i.postimg.cc/sDWRfDGp/img-schema-electrique.png" alt="Bad Usb" width="500">
+
 ## Articles
 
 - [Article sur la santé des agriculteurs par Santé Publique France (2018)](https://www.santepubliquefrance.fr/les-actualites/2018/sante-des-agriculteurs-risques-et-expositions-professionnelles)
