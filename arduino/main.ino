@@ -62,22 +62,25 @@ void loop() {
     Serial.println("Fresh air.");
  }
 
-  delay(1000);
+  delay(500);
 
 }
 
+/* Allows to turn off each led, from the RGB led. */
 void turnOffLed() {
   digitalWrite(LED_GREEN_PIN, LOW);
   digitalWrite(LED_BLUE_PIN, LOW);
   digitalWrite(LED_RED_PIN, LOW);
 }
 
+/* Allows to diffuse a color in byte through the led rgb. */
 void displayColorLed(byte color) {
   digitalWrite(LED_RED_PIN, bitRead(color, 2));
   digitalWrite(LED_GREEN_PIN, bitRead(color, 1));
   digitalWrite(LED_BLUE_PIN, bitRead(color, 0));
 }
 
+/* Emits a signal to warn the user that the device is on. */
 void emitStartupSignal() {
   displayColorLed(COLOR_GREEN);
   tone (BUZZER_PIN, 100, 1000);
@@ -86,6 +89,7 @@ void emitStartupSignal() {
   delay(1000);
 }
 
+/* Emits a sound on a given frequency via the buzzer. */
 void emitBuzzerSound() {
   for (int i=0; i < 5; i++) {
     tone (BUZZER_PIN, 100, 1000);
@@ -95,6 +99,7 @@ void emitBuzzerSound() {
   isAlreadyEmitSound = true;
 }
 
+/* Allows to determine if the sensor has been initialized or not. */
 void isSensorReady(AirQualitySensor sensor) {
   if (sensor.init()) {
     emitStartupSignal();
