@@ -28,7 +28,7 @@ On retrouve également une **led RGB** permettant d'indiquer à l'utilisateur la
 | [Arduino UNO R3](https://urlz.fr/joH0) | Permet de gérer et piloter les composants externes. | ~3,89 €
 | [Led RGB](https://urlz.fr/joH6) | Permet de diffuser une large gamme de couleurs différentes. | ~0.04 €
 | [Buzzer](https://urlz.fr/jnTP) | Permet d'émettre un son plus ou moins aigu selon la fréquence. | ~0.70 €
-| [Air Quality Sensor](https://urlz.fr/jnTS) | Permet de détecter la qualité de l'air. | ~19.70 €
+| [Air Quality Sensor](https://urlz.fr/jpLr) | Permet de détecter la qualité de l'air. | ~1.29 €
 | [Base shield (optionel)](https://www.mouser.fr/ProductDetail/Seeed-Studio/103030000?qs=SElPoaY2y5JcWXrWV1kCmw%3D%3D&mgh=1&vip=1) | Permet de connecter plusieurs capteurs analogiques. | ~3,38 €
 
 ## Quel est le public visé ?
@@ -68,7 +68,7 @@ trop toxique. Un produit **simple** mais **intuitif** et **facile** à prendre e
 ## Communication
 
 <div align="center">
-  <img src="https://i.postimg.cc/MKhRyv33/img-poster-mockup-airsens-png.png" alt="Image schéma platine d'essai" width="500">
+  <img src="https://i.postimg.cc/9FRn5YMJ/img-poster-airsens.png" alt="Image schéma platine d'essai" width="500">
 </div>
 
 ## Articles
